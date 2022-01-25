@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reactjs | Full Stack| Aws
 - 🌱 I’m currently learning AWS SA
 - 💞️ I’m looking to collaborate on React projects
-- 📫 How to reach me github
+
 
 <!---
 daitoch/daitoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
